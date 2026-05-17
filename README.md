@@ -25,7 +25,7 @@ IP хоста → сравнение с подсетями VLAN интерфей
 ## Установка
 
 ```bash
-git clone https://github.com/ancient999/vlancheker.git
+git clone https://github.com/ancient999/vlanchecker.git
 cd test
 ```
 
